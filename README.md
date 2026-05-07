@@ -1,6 +1,6 @@
 # gamepad Instructions
 
-Ce repo est un fork du repo original de DeepRobotics.
+Ce repo est un fork du repo originel de DeepRobotics.
 Il est ici pour expliquer en français et clarifier la prise en main du Retroid Gamepad pour mon stage.
 Le code de ce repo est identique à celui de repo originel, je n'ai modifié aucun code.
 
