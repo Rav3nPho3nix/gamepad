@@ -24,7 +24,7 @@ Le nom et mot de passe du Wifi sont sur le torse du Lite3.
 
 * Sur le retroid gamepad doit se trouver une application ayant comme icone l'icone de Flutter (comme ceci) :
 <img src="./doc/app_icon.png" alt="a" style="zoom:60%;" />
-*Si vous ne possedez pas cette application, le fichier apk est présent dans ce repo [ici](/controlapp.apk).*
+<em>Si vous ne possedez pas cette application, le fichier apk est présent dans ce repo [ici](/controlapp.apk).</em>
 
 * Lancez l'application.
 
@@ -42,7 +42,7 @@ A ce moment là, vous êtes sensé voir un fond gris sur lequel est écrit "Deep
 * Appuyez sur le bouton de droite (le noir), cela va vous faire quitter l'application afin d'enregistrer vos modifications. Une fois fait, re-ouvrez l'application et vérifiez que l'IP et le port sont bien à jour :
 <img src="./doc/img_1.jpg" alt="a" style="zoom:60%;" />
 
-## 3 Obtention du code
+## 3 Envoi du code
 
 * Trouvez le nom d'utilisateur et le mot de passe de votre Lite3 en suivant les instructions suivantes: https://github.com/DeepRoboticsLab/Lite3_MotionSDK#4-identify-the-motion-host-address-username-and-code . Pour moi, l'utilisateur est `firefly` et le mot de passe est aussi `firefly`.
 
